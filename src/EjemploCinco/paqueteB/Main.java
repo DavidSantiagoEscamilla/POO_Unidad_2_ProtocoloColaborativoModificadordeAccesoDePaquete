@@ -1,4 +1,6 @@
-package EjemploCinco;
+package EjemploCinco.paqueteB;
+
+import EjemploCinco.paqueteA.Vehiculo;
 
 public class Main {
     public static void main(String[] args) {
