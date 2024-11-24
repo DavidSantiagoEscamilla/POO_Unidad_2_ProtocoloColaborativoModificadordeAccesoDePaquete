@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Vehiculo mVehiculo = new Vehiculo("Carro");
 
-        Moto moto = new Moto("Moto");
+        //Moto moto = new Moto("Moto");
     }
 }
